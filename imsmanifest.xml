@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Snowpit Weight</langstring>
+          <langstring xml:lang="x-none">Snowpit Weight(2)</langstring>
         </title>
         <description>
           <langstring xml:lang="x-none">A virtual tool for measuring the properties of snow in a snowpit.</langstring>
@@ -53,11 +53,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Snowpit_Weight_ORG">
-    <organization identifier="Snowpit_Weight_ORG">
-      <title>Snowpit Weight</title>
+  <organizations default="Snowpit_Weight(2)_ORG">
+    <organization identifier="Snowpit_Weight(2)_ORG">
+      <title>Snowpit Weight(2)</title>
       <item identifier="Snowpit_Weight_Freeform_SCO" isvisible="true" identifierref="__6QQPuuxCeuF_RES">
-        <title>Snowpit Weight</title>
+        <title>Snowpit Weight(2)</title>
       </item>
     </organization>
   </organizations>
